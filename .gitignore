@@ -1,0 +1,9 @@
+.env
+/data/
+/exports/
+*.log
+*.session
+/vendor/
+.phpunit.cache/
+.DS_Store
+project_build.zip
